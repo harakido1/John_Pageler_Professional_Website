@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://images8.alphacoders.com/368/368904.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
