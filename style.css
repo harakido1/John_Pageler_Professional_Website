@@ -20,12 +20,14 @@ body {
 }
 
 .fly-in-text {
-list-style: none;
-position: absolute;
-left: 34%;
-top: 4.4%;
-transform: translateX(-20%) translateY(-10%);
-}
+  list-style: none;
+  position: absolute;
+  left: 34%;
+  top: 4.4%;
+  -webkit-transform: translateX(-20%) translateY(-10%);
+      -ms-transform: translateX(-20%) translateY(-10%);
+          transform: translateX(-20%) translateY(-10%);
+  }
 
 .fly-in-text li {
   display: inline-block;
