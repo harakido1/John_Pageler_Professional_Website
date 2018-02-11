@@ -32,7 +32,7 @@ position: absolute;
 .fly-in-text li {
   display: inline-block;
   font-family: serif;
-  color: #0922bae6;
+  color: #007bff;
   font-size: 1.9em;
   opacity: 1;
   transition: all 2.5s ease;
