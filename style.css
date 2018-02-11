@@ -22,7 +22,7 @@ body {
 .fly-in-text {
   list-style: none;
   position: absolute;
-  left: 34%;
+  left: 26%;
   top: 4.4%;
   -webkit-transform: translateX(-20%) translateY(-10%);
       -ms-transform: translateX(-20%) translateY(-10%);
@@ -32,10 +32,10 @@ body {
 .fly-in-text li {
   display: inline-block;
   font-family: serif;
-  color: #0922bae6;
+  color: #007bff;
   font-size: 1.9em;
   opacity: 1;
-  transition: all 2.5s ease;
+  transition: all 3s ease;
 }
 
 .fly-in-text.hidden li {
