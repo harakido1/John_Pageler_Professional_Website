@@ -23,7 +23,7 @@ body {
   list-style: none;
   position: absolute;
   left: 28%;
-  top: 6%;
+  top: 5%;
   -webkit-transform: translateX(-20%) translateY(-10%);
       -ms-transform: translateX(-20%) translateY(-10%);
           transform: translateX(-20%) translateY(-10%);
