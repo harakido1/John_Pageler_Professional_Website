@@ -22,7 +22,7 @@ body {
 .fly-in-text {
 list-style: none;
 position: absolute;
-  left: 32%;
+  left: 33%;
   top: 4.5%;
   -webkit-transform: translateX(-20%) translateY(-10%);
       -ms-transform: translateX(-20%) translateY(-10%);
