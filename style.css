@@ -22,9 +22,11 @@ body {
 .fly-in-text {
 list-style: none;
 position: absolute;
-left: 20%;
-top: 6%;
-transform: translateX(-20%) translateY(-10%);
+  left: 34%;
+  top: 4.4%;
+  -webkit-transform: translateX(-20%) translateY(-10%);
+      -ms-transform: translateX(-20%) translateY(-10%);
+          transform: translateX(-20%) translateY(-10%);
 }
 
 .fly-in-text li {
